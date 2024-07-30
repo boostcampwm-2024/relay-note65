@@ -292,11 +292,11 @@
 - 수행 결과 : 에너지 관리를 위해 매일 맛있는 음식을 먹기로 정했습니다!!
   - 24.07.29
 
-    <img src="[J122]240729.jpg" width="150" height="150"/>
+    <img src="image/[J122]240729.jpg" width="150" height="150"/>
 
   - 24.07.30
 
-    <img src="[J122]240730.jpg" width="150" height="150"/>
+    <img src="image/[J122]240730.jpg" width="150" height="150"/>
 
 - 소감 :
 
