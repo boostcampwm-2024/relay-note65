@@ -253,15 +253,15 @@
 
   - Day11. 택배 시뮬레이터
  
-    - ![Day11. 택배 시뮬레이터](https://gist.github.com/user-attachments/assets/613482a4-af7d-46c4-a468-5cbbd5dec889)
+    <img src="image/[J071]Day11.png" width="1000" height="120"/>
 
 
   - Day13. 버전관리 도구
 
-    - ![Day13. 버전관리 도구](https://gist.github.com/user-attachments/assets/223001c3-9402-4d8e-9765-12c1d9ed06e1)
+    <img src="image/[J071]Day13.png" width="1000" height="120"/>
 
 
-- 소감 : 설계에 얼마나 집중하고 있는지 확인할 수 있었고, 실제로 설계에 더 많은 시간을 투자한 미션의 결과가 더 만족스러웠습니다. 앞으로 설계에 더 집중해보려고 합니다!
+- 소감 : 설계에 얼마나 집중하고 있는지 확인할 수 있었고, 실제로 설계에 더 많은 시간을 투자한 미션의 결과가 더 만족스러웠습니다. 앞으로 설계에 더 집중해 보려고 합니다!
 
 <hr>
 
